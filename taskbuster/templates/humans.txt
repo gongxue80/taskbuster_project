@@ -3,13 +3,14 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Gong Xue -- Develper -- @gongxue0
 
 # THANKS
 
-    <name>
+    Thanks to all
 
 # TECHNOLOGY COLOPHON
 
-    HTML5, CSS3
-    jQuery, Modernizr
+    Django
+    HTML5 Boilerplate
+    Twitter Bootstrap
