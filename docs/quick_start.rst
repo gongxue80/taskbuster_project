@@ -86,7 +86,7 @@ and in the predeactivate file::
 Next, install the packages in each environment::
  
     $ workon tb_dev
-    $ pip install -r requirements/development.txt
+    $ pip install -r requirements/local.txt
     $ workon tb_test
     $ pip install -r requirements/testing.txt
  
